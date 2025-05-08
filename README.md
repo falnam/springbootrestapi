@@ -409,10 +409,9 @@ Selamat! Anda telah berhasil membuat REST API menggunakan Spring Boot dan menguj
 
 Tutorial ini dapat dijadikan dasar untuk pengembangan API yang lebih kompleks. Anda dapat menambahkan fitur seperti validasi data, autentikasi, atau endpoint tambahan sesuai kebutuhan aplikasi Anda.
 
-## Langkah Selanjutnya
+## Submission Praktikum
 
-- Menambahkan validasi data input
-- Mengimplementasikan paginasi untuk data yang banyak
-- Menambahkan autentikasi dan otorisasi
-- Membuat dokumentasi API menggunakan Swagger
-- Menulis unit test dan integration test
+- Upload project yang kalian buat ke dalam repository github dengan nama:
+  'springbootrestapi'
+- Screenshoot dan sertakan link (public) repository kalian
+- Submit dalam format .pdf ke link di deskripsi grup

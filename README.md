@@ -113,6 +113,6 @@ Proyek ini untuk keperluan pembelajaran. Bebas digunakan, dimodifikasi, dan dike
 
 ## Penulis
 
-Tutorial disusun berdasarkan Modul 10 dan diadaptasi untuk implementasi nyata oleh \[Ade Fatkhul Anam].
+Tutorial disusun berdasarkan Modul 10 dan diadaptasi untuk implementasi nyata oleh \Ade Fatkhul Anam.
 
 ```

@@ -27,7 +27,7 @@ Tutorial ini merupakan panduan lengkap untuk membangun REST API menggunakan Spri
 ### 1. Kloning Repository
 
 ```bash
-git clone https://github.com/falnam/rest-api.git
+git clone https://github.com/falnam/springbootrestapi.git
 cd rest-api
 ````
 
